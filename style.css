@@ -151,3 +151,36 @@
     flex-direction: column;
     gap: 10px;
  }
+ .box9{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    height: 520px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    background-color: #F4FBF8;
+    border-radius: 14px;
+
+ }
+ .box9 img{
+    border-radius: 14px;
+ }
+ .box10{
+    width: 50%;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+
+
+ }
+  .box10 button{
+    width: 150px;
+    height:40px;
+    border-radius: 20px;
+    border: none;
+    background-color: #24AB70;
+    color: white;
+  }
