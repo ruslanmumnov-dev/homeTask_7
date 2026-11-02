@@ -339,3 +339,6 @@
     flex-direction: column;
     gap: 10px;
 }
+body button{
+    cursor: pointer;
+}
